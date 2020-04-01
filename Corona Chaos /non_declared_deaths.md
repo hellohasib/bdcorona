@@ -29,4 +29,19 @@
     <td>ভৈরব</td>
     <td><a href="https://www.prothomalo.com/bangladesh/article/1646428" target="_blank">ইতালি ফেরত, করোনা নিগেটিভ এসেছে পরে</a></td>
   </tr>
+  <tr>
+    <td>২২ মার্চ, ২০২০</td>
+    <td>সিলেট</td>
+    <td><a href="https://www.jugantor.com/national/291764" target="_blank">যুক্তরাজ্য ফেরত, আইসোলেশনে থাকা</a></td>
+  </tr>
+  <tr>
+    <td>২৪ মার্চ, ২০২০</td>
+    <td>জামালপুর</td>
+    <td><a href="https://www.bhorerkagoj.com/print-edition/2020/03/25/301406.php" target="_blank">মৃত্যুর পরে টেস্টের জন্যে নমুনা পাঠানো হয়েছে</a></td>
+  </tr>
+  <tr>
+    <td>২৪ মার্চ, ২০২০</td>
+    <td>সীতাকুণ্ড</td>
+    <td><a href="https://www.prothomalo.com/bangladesh/article/1646820" target="_blank">তাঁর বৃদ্ধ মা-ও  জ্বর কাশিতে সপ্তাহ আগে মারা গিয়েছিলেন</a></td>
+  </tr>
 </table>
