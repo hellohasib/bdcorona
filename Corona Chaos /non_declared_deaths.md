@@ -44,4 +44,15 @@
     <td>সীতাকুণ্ড</td>
     <td><a href="https://www.prothomalo.com/bangladesh/article/1646820" target="_blank">তাঁর বৃদ্ধ মা-ও  জ্বর কাশিতে সপ্তাহ আগে মারা গিয়েছিলেন</a></td>
   </tr>
+  <tr>
+    <td>২৪ মার্চ, ২০২০</td>
+    <td>রাজশাহী</td>
+    <td><a href="http://btnews24.com.bd/archives/%E0%A6%89%E0%A6%AA%E0%A6%9C%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A6%B8%E0%A6%82%E0%A6%AC%E0%A6%BE%E0%A6%A6/46668/" target="_blank">আইসিইউতে ভর্তি হয়েছে, কিন্তু টেস্ট করা হয়নি</a></td>
+  </tr>
+  <tr>
+    <td>২৪ মার্চ, ২০২০</td>
+    <td>সিলেট</td>
+    <td><a href="https://www.sylhettoday24.news/news/details/Sylhet/96238?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork&fbclid=IwAR0eSYFHxdtjFEzTFm47o3eOziV0Qh-_VJUufaTu1eUyEeNwS14B5c8q2vs" target="_blank">হোম কোয়ারেন্টিনে থাকা অবস্থায় বৃদ্ধের মৃত্যু</a></td>
+  </tr>
+
 </table>
