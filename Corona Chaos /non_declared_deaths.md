@@ -54,5 +54,14 @@
     <td>সিলেট</td>
     <td><a href="https://www.sylhettoday24.news/news/details/Sylhet/96238?utm_campaign=shareaholic&utm_medium=facebook&utm_source=socialnetwork&fbclid=IwAR0eSYFHxdtjFEzTFm47o3eOziV0Qh-_VJUufaTu1eUyEeNwS14B5c8q2vs" target="_blank">হোম কোয়ারেন্টিনে থাকা অবস্থায় বৃদ্ধের মৃত্যু</a></td>
   </tr>
-
+  <tr>
+    <td>২৫ মার্চ, ২০২০</td>
+    <td>ঢাকা / মানিকগঞ্জ</td>
+    <td><a href="https://www.prothomalo.com/bangladesh/article/1646889" target="_blank">হাসপাতালে ক্যাশিয়ার পদে কর্মরত</a></td>
+  </tr>
+  <tr>
+    <td>০১ এপ্রিল, ২০২০</td>
+    <td>রাজশাহী</td>
+    <td><a href="https://bangla.dhakatribune.com/bangladesh/2020/04/01/21769/%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81" target="_blank">বিকেলে ভর্তি হয়ে সন্ধ্যায় রামেকের করোনাভাইরাস ওয়ার্ডে যুবকের মৃত্যু</a></td>
+  </tr>
 </table>
