@@ -75,8 +75,18 @@
     <td><a href="https://www.thedailystar.net/2-die-fever-breathing-problems-in-khulna-khagrachhari-1886296" target="_blank">শিপ ব্রেকিং ইয়ার্ডের কর্মী, ত্রিপুরা আদিবাসী, বাসাতেই মারা যায়</a></td>
   </tr>
   <tr>
+    <td>২৬ মার্চ, ২০২০</td>
+    <td>ঢাকা</td>
+    <td><a href="https://www.facebook.com/story.php?story_fbid=10156693573511504&id=513696503" target="_blank">বাসাতে মৃত্যু। আইইডসিআর, পুলিশ কোথা থেকে সাহায্য মেলেনি</a></td>
+  </tr>
+  <tr>
     <td>০১ এপ্রিল, ২০২০</td>
     <td>রাজশাহী</td>
     <td><a href="https://bangla.dhakatribune.com/bangladesh/2020/04/01/21769/%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%B9%E0%A7%9F%E0%A7%87-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A7%87%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%87%E0%A6%B0%E0%A6%BE%E0%A6%B8-%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AF%E0%A7%81%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81" target="_blank">বিকেলে ভর্তি হয়ে সন্ধ্যায় রামেকের করোনাভাইরাস ওয়ার্ডে যুবকের মৃত্যু</a></td>
+  </tr>
+  <tr>
+    <td>০২ এপ্রিল, ২০২০</td>
+    <td>ঢাকা</td>
+    <td><a href="https://www.kalerkantho.com/online/national/2020/04/02/893828" target="_blank">আইসোলেশনে দুই রোগীর মৃত্যু, করোনা সন্দেহে জটিলতা</a></td>
   </tr>
 </table>
